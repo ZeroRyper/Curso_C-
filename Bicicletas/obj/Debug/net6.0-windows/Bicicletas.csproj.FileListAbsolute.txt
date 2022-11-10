@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\bin\Debug\net6.0-windows\Bicicletas.exe
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\bin\Debug\net6.0-windows\Bicicletas.deps.json
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\bin\Debug\net6.0-windows\Bicicletas.runtimeconfig.json
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\bin\Debug\net6.0-windows\Bicicletas.dll
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\bin\Debug\net6.0-windows\Bicicletas.pdb
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.Form1.resources
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.AssemblyInfo.cs
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.dll
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\refint\Bicicletas.dll
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.pdb
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\Bicicletas.genruntimeconfig.cache
+C:\Users\erick\source\repos\CursoCantera\Bicicletas\obj\Debug\net6.0-windows\ref\Bicicletas.dll

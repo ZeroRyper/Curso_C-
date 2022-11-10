@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.Form1.resources
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.AssemblyInfo.cs
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\bin\Debug\net6.0-windows\Estructuras_Selectivas.exe
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\bin\Debug\net6.0-windows\Estructuras_Selectivas.deps.json
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\bin\Debug\net6.0-windows\Estructuras_Selectivas.runtimeconfig.json
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\bin\Debug\net6.0-windows\Estructuras_Selectivas.dll
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\bin\Debug\net6.0-windows\Estructuras_Selectivas.pdb
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.dll
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\refint\Estructuras_Selectivas.dll
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.pdb
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\Estructuras_Selectivas.genruntimeconfig.cache
+C:\Users\erick\source\repos\CursoCantera\Estructuras_Selectivas\obj\Debug\net6.0-windows\ref\Estructuras_Selectivas.dll

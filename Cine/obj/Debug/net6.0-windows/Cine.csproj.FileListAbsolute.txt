@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CursoCantera\Cine\bin\Debug\net6.0-windows\Cine.exe
+C:\Users\erick\source\repos\CursoCantera\Cine\bin\Debug\net6.0-windows\Cine.deps.json
+C:\Users\erick\source\repos\CursoCantera\Cine\bin\Debug\net6.0-windows\Cine.runtimeconfig.json
+C:\Users\erick\source\repos\CursoCantera\Cine\bin\Debug\net6.0-windows\Cine.dll
+C:\Users\erick\source\repos\CursoCantera\Cine\bin\Debug\net6.0-windows\Cine.pdb
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.Form1.resources
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.AssemblyInfo.cs
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.dll
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\refint\Cine.dll
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.pdb
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\Cine.genruntimeconfig.cache
+C:\Users\erick\source\repos\CursoCantera\Cine\obj\Debug\net6.0-windows\ref\Cine.dll

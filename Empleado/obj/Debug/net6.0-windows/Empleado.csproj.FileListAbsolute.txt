@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CursoCantera\Empleado\bin\Debug\net6.0-windows\Empleado.exe
+C:\Users\erick\source\repos\CursoCantera\Empleado\bin\Debug\net6.0-windows\Empleado.deps.json
+C:\Users\erick\source\repos\CursoCantera\Empleado\bin\Debug\net6.0-windows\Empleado.runtimeconfig.json
+C:\Users\erick\source\repos\CursoCantera\Empleado\bin\Debug\net6.0-windows\Empleado.dll
+C:\Users\erick\source\repos\CursoCantera\Empleado\bin\Debug\net6.0-windows\Empleado.pdb
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.Form1.resources
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.AssemblyInfo.cs
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.dll
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\refint\Empleado.dll
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.pdb
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\Empleado.genruntimeconfig.cache
+C:\Users\erick\source\repos\CursoCantera\Empleado\obj\Debug\net6.0-windows\ref\Empleado.dll

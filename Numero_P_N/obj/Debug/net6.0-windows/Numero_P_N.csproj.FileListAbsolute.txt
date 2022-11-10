@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\bin\Debug\net6.0-windows\Numero_P_N.exe
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\bin\Debug\net6.0-windows\Numero_P_N.deps.json
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\bin\Debug\net6.0-windows\Numero_P_N.runtimeconfig.json
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\bin\Debug\net6.0-windows\Numero_P_N.dll
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\bin\Debug\net6.0-windows\Numero_P_N.pdb
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.Form1.resources
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.AssemblyInfo.cs
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.dll
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\refint\Numero_P_N.dll
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.pdb
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\Numero_P_N.genruntimeconfig.cache
+C:\Users\erick\source\repos\CursoCantera\Numero_P_N\obj\Debug\net6.0-windows\ref\Numero_P_N.dll

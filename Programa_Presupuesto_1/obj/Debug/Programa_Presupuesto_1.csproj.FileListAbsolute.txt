@@ -1,0 +1,11 @@
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\bin\Debug\Programa_Presupuesto_1.exe.config
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\bin\Debug\Programa_Presupuesto_1.exe
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\bin\Debug\Programa_Presupuesto_1.pdb
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.Form1.resources
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.Properties.Resources.resources
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.exe
+C:\Users\erick\source\repos\CursoCantera\Programa_Presupuesto_1\obj\Debug\Programa_Presupuesto_1.pdb

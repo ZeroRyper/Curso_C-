@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CursoCantera\Promedio\bin\Debug\net6.0-windows\Promedio.exe
+C:\Users\erick\source\repos\CursoCantera\Promedio\bin\Debug\net6.0-windows\Promedio.deps.json
+C:\Users\erick\source\repos\CursoCantera\Promedio\bin\Debug\net6.0-windows\Promedio.runtimeconfig.json
+C:\Users\erick\source\repos\CursoCantera\Promedio\bin\Debug\net6.0-windows\Promedio.dll
+C:\Users\erick\source\repos\CursoCantera\Promedio\bin\Debug\net6.0-windows\Promedio.pdb
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.Form1.resources
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.AssemblyInfo.cs
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.dll
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\refint\Promedio.dll
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.pdb
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\Promedio.genruntimeconfig.cache
+C:\Users\erick\source\repos\CursoCantera\Promedio\obj\Debug\net6.0-windows\ref\Promedio.dll
